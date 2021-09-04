@@ -1,14 +1,14 @@
-# Hi there, I'm Erick Gzz - aka Gonza 👋
----
+# Hi there, I'm Erick Gzz - aka Gonza.
+
 ## I'm a Engineer, learning front-end development, and content creator on youtube!!
----
+
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other persons.
 - 🥅 2021 Goals: Grow up my Youtube Channel.
 - ⚡ Fun fact: I love to play videogames and make exercise.
 
 ## Connect with me:
----
+
 [<img align="left" alt="erickgzz | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="erickgzz | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="erickgzz | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
----
+
 <img align="left" alt="Visual Studio Code" width="28px" color="white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="28px" color="white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" color="white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
