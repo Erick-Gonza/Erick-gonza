@@ -1,6 +1,6 @@
 # Hi there, I'm Erick Gzz - aka Gonza.
 
-## I'm a Engineer, learning front-end development, and content creator on youtube!!
+## I'm a Engineer, learning front-end development, and beginner content creator on youtube!!
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other persons.
