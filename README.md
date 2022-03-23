@@ -3,8 +3,8 @@
 ## I'm a Engineer, learning front-end development.
 
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other persons.
-- 🥅 2021 Goals: Grow up my Youtube Channel.
+- 👯 I’m looking to collaborate with other people.
+- 🥅 2021 Goals: Grow up...
 - ⚡ Fun fact: I love to play videogames and make exercise.
 
 ## Connect with me:
