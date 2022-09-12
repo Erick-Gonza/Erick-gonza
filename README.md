@@ -2,7 +2,7 @@
 
 ### <div align="center">
 <h1 align="center">Hi 👋, I'm Erick Gzz</h1>
-<h3 align="center">Mechatronics Engineer and a frontend freelance developer 👨‍💻 Looking for remote work🚀 from Mexico.</h3>
+<h3 align="center">Mechatronics Engineer and a frontend developer 👨‍💻 Looking for remote work🚀 from Mexico.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>  
 
@@ -20,7 +20,7 @@
 
 <br/>  
 
-## Connect with me  
+<h1 align="center">Connect with me</h1> 
 <div align="center">
 <a href="https://github.com/Erick-gonza" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
