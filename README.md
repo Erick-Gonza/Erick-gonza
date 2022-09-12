@@ -1,6 +1,6 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>
 
-### <div align="center">I'm Erick, a 
+### <div align="center">
 <h1 align="center">Hi 👋, I'm Erick Gzz</h1>
 <h3 align="center">Mechatronics Engineer and a frontend freelance developer 👨‍💻 Looking for remote work🚀 from Mexico.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,6 +9,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=erick-gonza&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
 <p align="left"><a href="https://twitter.com/GonzaaMx" target="blank"><img src="https://img.shields.io/twitter/follow/GonzaaMx?logo=twitter&style=for-the-badge" alt="GonzaaMx" /></a></p>
 
+<br/>  
 
 - 🔭 I’m currently working on **React, JavaScript, Responsive Design.**
 - 🌱 I’m currently learning **React, NodeJS, MongoDB and Express.** 
@@ -16,6 +17,8 @@
 - 💬 Ask me about **Arduino, ESP32, Frontend, 3D Printing.** 
 - 📫 How to reach me **eagm080897@gmail.com** 
 - ⚡ Fun fact **I spent 6 years practicing boxing, i love it.**
+
+<br/>  
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
