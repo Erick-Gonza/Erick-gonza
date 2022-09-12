@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Erick Gzz</h1>
 <h3 align="center">
   Mechatronics Engineer and a passionate frontend developer from Mexico.
 </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **React** - 🌱 I’m currently learning **React,
 NodeJS, MongoDB and Express** - 👨‍💻 All of my projects are available at
@@ -162,3 +164,7 @@ NodeJS, MongoDB and Express** - 👨‍💻 All of my projects are available at
     Postman
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
