@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Erick Gzz</h1>
 <h3 align="center">Mechatronics Engineer and a passionate frontend developer from Mexico.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erick-gonza&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <p align="left"> <a href="https://twitter.com/GonzaaMx" target="blank"><img src="https://img.shields.io/twitter/follow/GonzaaMx?logo=twitter&style=for-the-badge" alt="GonzaaMx" /></a> </p>
