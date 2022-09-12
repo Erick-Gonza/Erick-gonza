@@ -51,6 +51,14 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 </div>
 
+<br/>  
+
+<h2 align="center">Github Stats</h2> 
+<img src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+
+<br/>  
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-gonza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
