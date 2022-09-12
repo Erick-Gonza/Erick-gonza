@@ -7,14 +7,14 @@
 <p align="left"><a href="https://twitter.com/GonzaaMx" target="blank"><img src="https://img.shields.io/twitter/follow/GonzaaMx?logo=twitter&style=for-the-badge" alt="GonzaaMx" /></a></p>
 
 
-- 🔭 I’m currently working on **React, JavaScript, Responsive Design**
-- 🌱 I’m currently learning **React, NodeJS, MongoDB and Express** 
+- 🔭 I’m currently working on **React, JavaScript, Responsive Design.**
+- 🌱 I’m currently learning **React, NodeJS, MongoDB and Express.** 
 - 👨‍💻 All of my projects are available at [https://github.com/Erick-Gonza/Erick-gonza](https://github.com/Erick-Gonza/Erick-gonza)
-- 💬 Ask me about **Arduino, ESP32, Frontend, 3D Printing** 
+- 💬 Ask me about **Arduino, ESP32, Frontend, 3D Printing.** 
 - 📫 How to reach me **eagm080897@gmail.com** 
-- ⚡ Fun fact **I spent 6 years practicing boxing, i love it**
+- ⚡ Fun fact **I spent 6 years practicing boxing, i love it.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/gonzaamx" target="blank">
     <img
@@ -40,19 +40,17 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    HTML
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    CSS
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -62,112 +60,101 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    JavaScript
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    React
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    Arduino
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    Azure
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    Bootstrap
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    C++
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    C#
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    Git
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    MongoDB
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    MySQL
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    NodeJS
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-    Postman
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-gonza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-gonza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
