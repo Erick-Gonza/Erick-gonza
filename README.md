@@ -5,6 +5,7 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<br><br>
 - 🔭 I’m currently working on **React** - 🌱 I’m currently learning **React,
 NodeJS, MongoDB and Express** - 👨‍💻 All of my projects are available at
 [https://github.com/Erick-Gonza/Erick-gonza](https://github.com/Erick-Gonza/Erick-gonza)
@@ -165,6 +166,6 @@ NodeJS, MongoDB and Express** - 👨‍💻 All of my projects are available at
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-gonza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
