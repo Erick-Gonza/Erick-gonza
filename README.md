@@ -54,12 +54,5 @@
 <br/>  
 
 <h2 align="center">Github Stats</h2> 
-<img src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-
-<br/>  
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erick-gonza&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=erick-gonza&show_icons=true&count_private=true&hide_border=true" align="left" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-gonza&hide_border=true&layout=compact" align="right" /></div>  
