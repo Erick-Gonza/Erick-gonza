@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Erick Gzz</h1>
 <h3 align="center">Mechatronics Engineer and a passionate frontend developer from Mexico.</h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
 
