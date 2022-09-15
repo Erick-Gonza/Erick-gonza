@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **React, JavaScript, Responsive Design.**
 - 🌱 I’m currently learning **React, NodeJS, MongoDB and Express.** 
-- 👨‍💻 All of my projects are available at [https://github.com/Erick-Gonza/Erick-gonza](https://github.com/Erick-Gonza/Erick-gonza)
+- 👨‍💻 All of my projects are available at [https://github.com/Erick-Gonza?tab=repositories](https://github.com/Erick-Gonza?tab=repositories)
 - 💬 Ask me about **Arduino, ESP32, Frontend, 3D Printing.** 
 - 📫 How to reach me **eagm080897@gmail.com** 
 - ⚡ Fun fact **I spent 6 years practicing boxing, i love it.**
