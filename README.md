@@ -11,12 +11,12 @@
 
 <br/>  
 
-- 🔭 I’m currently working on **React, JavaScript, Responsive Design.**
-- 🌱 I’m currently learning **React, NodeJS, MongoDB and Express.** 
+- 🔭 I’m currently working on **React, NextJS, React Native.**
+- 🌱 I’m currently learning **React, NextJS, UX/UI and Backend.** 
 - 👨‍💻 All of my projects are available at [https://github.com/Erick-Gonza?tab=repositories](https://github.com/Erick-Gonza?tab=repositories)
-- 💬 Ask me about **Arduino, ESP32, Frontend, 3D Printing.** 
+- 💬 Ask me about **React, NextJs, microcontrollers, Front-End, 3D Printing.** 
 - 📫 How to reach me **eagm080897@gmail.com** 
-- ⚡ Fun fact **I spent 6 years practicing boxing, i love it.**
+- ⚡ Fun fact **I spent 8 years practicing boxing, i love it.**
 
 <br/>  
 
